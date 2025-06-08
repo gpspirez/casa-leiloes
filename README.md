@@ -8,3 +8,7 @@ Este projeto é um sistema de controle de produtos de uma casa de leilões.
 
 - Java
 - MySQL
+
+## Funcionalidades adicionadas
+- Cadastro de produtos
+- Listagem de produtos
