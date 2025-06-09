@@ -13,6 +13,6 @@ Este projeto é um sistema de controle de produtos de uma casa de leilões.
 - Cadastro de produtos
 - Listagem de produtos
 
-Adicionado método venderProduto() ao ProdutosDAO
-Adicionado método listarProdutosVendidos() ao ProdutosDAO"
+- Adicionado método venderProduto() ao ProdutosDAO
+- Adicionado método listarProdutosVendidos() ao ProdutosDAO"
 
